@@ -16,7 +16,7 @@ public class EvenOddPrintExample {
         @Override
         public void run() {
             for (int i = 2; i <= 20; i += 2) {
-                System.out.println("Even Thread: " + i);
+                System.out.println("Even idgg Thread: " + i);
 
                 try {
                     // Introduce a small delay for better visibility
